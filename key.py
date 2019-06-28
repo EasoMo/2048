@@ -59,7 +59,7 @@ def set_moved(have_moved):
     moved = have_moved
 
 
-def there_are_some_zeros():  # 函数名写全
+def there_are_some_zeros():
     for line in table:
         for num in line:
             if num == 0:
