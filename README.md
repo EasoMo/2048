@@ -1,0 +1,2 @@
+这是一个在terminal中运行的小游戏。
+需安装pynput
